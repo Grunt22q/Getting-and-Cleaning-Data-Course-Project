@@ -1,6 +1,6 @@
-## Code Book for Course Project
+# Code Book for Course Project
 
-# Variables
+## Variables
 
 testData - table contents of test/X_test.txt
 trainData - table contents of train/X_train.txt
